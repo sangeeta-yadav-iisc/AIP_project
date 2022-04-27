@@ -21,3 +21,8 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+report/results/images/stylegan1/045907.png
+project/app_Project/*
+project/code/karras2019stylegan-ffhq-1024x1024.pkl
+report/architecture_images/*
+literature/*
