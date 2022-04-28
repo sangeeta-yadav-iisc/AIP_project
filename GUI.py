@@ -1,1 +1,0 @@
-print("Click a picture and we will provide you the object available in the image")
